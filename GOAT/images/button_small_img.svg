@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="165.952" height="410.472" viewBox="0 0 165.952 410.472">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#72a2d5"/>
+      <stop offset="1" stop-color="#6fccb9"/>
+    </linearGradient>
+  </defs>
+  <g id="グループ_517" data-name="グループ 517" transform="translate(-1575.033 -313.528)">
+    <g id="グループ_2" data-name="グループ 2" transform="translate(-183 69.5)">
+      <rect id="長方形_3" data-name="長方形 3" width="134" height="384" transform="translate(1786 270.085)" fill="url(#linear-gradient)"/>
+      <text id="説明会参加申込はこちら" transform="translate(1846 339.085) rotate(90)" fill="#fff" font-size="16" font-family="YuGothic-Bold, Yu Gothic" font-weight="700" letter-spacing="0.3em"><tspan x="0" y="0">説明会参加申込はこちら</tspan></text>
+      <line id="線_4" data-name="線 4" y1="60" transform="translate(1853.5 594.5)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+    <text id="Click" transform="matrix(0.985, -0.174, 0.174, 0.985, 1586.841, 406.022)" fill="#707070" font-size="56" font-family="AdobeHandwriting-Ernie, Adobe Handwriting Ernie" style="mix-blend-mode: screen;isolation: isolate"><tspan x="0" y="0">Click</tspan></text>
+  </g>
+</svg>
