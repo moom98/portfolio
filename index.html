@@ -132,6 +132,7 @@
 
       <main class="main" id="main">
         <div class="mv" id="mv">
+          <!-- <canvas id="mv_canvas"></canvas> -->
           <img src="images/mv_huge.svg" alt="ME" class="mv__img" />
           <div class="mv__scroll">
             <div class="mv__scroll-line"></div>
@@ -872,6 +873,14 @@
     <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/desvg@1.0.2/desvg.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/lax.js@2.0.3/lib/lax.min.js"></script>
-    <script src="js/function.js"></script>
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@0.152.2/build/three.module.js",
+          "three/addons/": "https://unpkg.com/three@0.152.2/examples/jsm/"
+        }
+      }
+    </script>
+    <script type="module" src="js/function.js"></script>
   </body>
 </html>
