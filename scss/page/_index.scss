@@ -63,6 +63,11 @@
       }
     }
 
+    &__canvas {
+      opacity: 0.6;
+      transition: opacity 0.8s;
+    }
+
     &__scroll {
       @include scroll;
       bottom: 20px;

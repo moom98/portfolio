@@ -761,6 +761,10 @@ a {
     padding-top: 130px;
   }
 }
+#index .mv__canvas {
+  opacity: 0.6;
+  transition: opacity 0.8s;
+}
 #index .mv__scroll {
   width: 1px;
   height: 100px;
