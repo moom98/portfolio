@@ -165,7 +165,7 @@
                   <a href="tanakaya.html" class="navi__link">NEXT</a>
                   <div class="next__line"></div>
                 </div>
-                <div class="numbering">3／12</div>
+                <div class="numbering">3／11</div>
               </div>
             </div>
             <div class="works__pageshot">
@@ -186,6 +186,14 @@
     <!-- Jquery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/desvg@1.0.2/desvg.min.js"></script>
-    <script src="../js/function.js"></script>
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@0.152.2/build/three.module.js",
+          "three/addons/": "https://unpkg.com/three@0.152.2/examples/jsm/"
+        }
+      }
+    </script>
+    <script type="module" src="../js/function.js"></script>
   </body>
 </html>
