@@ -973,62 +973,62 @@ a {
 #index .work .bg01 {
   position: absolute;
   z-index: -1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img_work_wss_c.webp) center/cover no-repeat;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../_assets/images/img_work_wss_c.webp) center/cover no-repeat;
 }
 #index .work .bg02 {
   position: absolute;
   z-index: -1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img_work_hana_c.webp) center/cover no-repeat;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../_assets/images/img_work_hana_c.webp) center/cover no-repeat;
 }
 #index .work .bg03 {
   position: absolute;
   z-index: -1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img_work_endo_c.webp) center/cover no-repeat;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../_assets/images/img_work_endo_c.webp) center/cover no-repeat;
 }
 #index .work .bg04 {
   position: absolute;
   z-index: -1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img_work_tanakaya_c.webp) center/cover no-repeat;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../_assets/images/img_work_tanakaya_c.webp) center/cover no-repeat;
 }
 #index .work .bg05 {
   position: absolute;
   z-index: -1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img_work_azito_c.webp) center/cover no-repeat;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../_assets/images/img_work_azito_c.webp) center/cover no-repeat;
 }
 #index .work .bg06 {
   position: absolute;
   z-index: -1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img_work_lloyds_c.webp) center/cover no-repeat;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../_assets/images/img_work_lloyds_c.webp) center/cover no-repeat;
 }
 #index .work .bg07 {
   position: absolute;
   z-index: -1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img_work_musubi_c.webp) center/cover no-repeat;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../_assets/images/img_work_musubi_c.webp) center/cover no-repeat;
 }
 #index .work .bg08 {
   position: absolute;
   z-index: -1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img_work_mori_c.webp) center/cover no-repeat;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../_assets/images/img_work_mori_c.webp) center/cover no-repeat;
 }
 #index .work .bg09 {
   position: absolute;
   z-index: -1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img_work_sides_c.webp) center/cover no-repeat;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../_assets/images/img_work_sides_c.webp) center/cover no-repeat;
 }
 #index .work .bg10 {
   position: absolute;
   z-index: -1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img_work_nextone_c.webp) center/cover no-repeat;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../_assets/images/img_work_nextone_c.webp) center/cover no-repeat;
 }
 #index .work .bg11 {
   position: absolute;
   z-index: -1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img_work_flyer_c.webp) center/cover no-repeat;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../_assets/images/img_work_flyer_c.webp) center/cover no-repeat;
 }
 #index .work .bg12 {
   position: absolute;
   z-index: -1;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/img_work_banner_c.webp) center/cover no-repeat;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../_assets/images/img_work_banner_c.webp) center/cover no-repeat;
 }
 #index .work__sideScroll {
   position: absolute;
@@ -1790,37 +1790,37 @@ a {
   }
 }
 #works .works__bgwss {
-  background: url(../../images/img_work_wss_bg_b.webp) center/cover no-repeat;
+  background: url(../../_assets/images/img_work_wss_bg_b.webp) center/cover no-repeat;
 }
 #works .works__bghana {
-  background: url(../../images/img_work_hana_bg_b.webp) center/cover no-repeat;
+  background: url(../../_assets/images/img_work_hana_bg_b.webp) center/cover no-repeat;
 }
 #works .works__bgendo {
-  background: url(../../images/img_work_endo_bg_b.webp) center/cover no-repeat;
+  background: url(../../_assets/images/img_work_endo_bg_b.webp) center/cover no-repeat;
 }
 #works .works__bgtanakaya {
-  background: url(../../images/img_work_tanakaya_bg_b.webp) center/cover no-repeat;
+  background: url(../../_assets/images/img_work_tanakaya_bg_b.webp) center/cover no-repeat;
 }
 #works .works__bgazito {
-  background: url(../../images/img_work_azito_bg_b.webp) center/cover no-repeat;
+  background: url(../../_assets/images/img_work_azito_bg_b.webp) center/cover no-repeat;
 }
 #works .works__bglloyds {
-  background: url(../../images/img_work_lloyds_bg_b.webp) center/cover no-repeat;
+  background: url(../../_assets/images/img_work_lloyds_bg_b.webp) center/cover no-repeat;
 }
 #works .works__bgmusubi {
-  background: url(../../images/img_work_musubi_bg_b.webp) center/cover no-repeat;
+  background: url(../../_assets/images/img_work_musubi_bg_b.webp) center/cover no-repeat;
 }
 #works .works__bgmori {
-  background: url(../../images/img_work_mori_bg_b.webp) center/cover no-repeat;
+  background: url(../../_assets/images/img_work_mori_bg_b.webp) center/cover no-repeat;
 }
 #works .works__bgnextone {
-  background: url(../../images/img_work_nextone_bg_b.webp) center/cover no-repeat;
+  background: url(../../_assets/images/img_work_nextone_bg_b.webp) center/cover no-repeat;
 }
 #works .works__bgsides {
-  background: url(../../images/img_work_sides_bg_b.webp) center/cover no-repeat;
+  background: url(../../_assets/images/img_work_sides_bg_b.webp) center/cover no-repeat;
 }
 #works .works__bgbanner {
-  background: url(../../images/img_work_banner_bg_b.webp) center/cover no-repeat;
+  background: url(../../_assets/images/img_work_banner_bg_b.webp) center/cover no-repeat;
 }
 #works .works__circle {
   width: 90vh;
@@ -2469,7 +2469,7 @@ a {
   }
 }
 #flyer .works__bgflyer {
-  background: url(../../images/img_work_flyer_bg_b.jpg) center/cover no-repeat;
+  background: url(../../_assets/images/img_work_flyer_bg_b.jpg) center/cover no-repeat;
 }
 #flyer .works__circle {
   width: 650px;

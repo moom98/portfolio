@@ -451,7 +451,9 @@ if (window.document.body.id === "index") {
 
     // model by gltf
     const loader = new GLTFLoader();
-    const objects = await loader.loadAsync("./images/3d/mv_huge_3d.glb");
+    const objects = await loader.loadAsync(
+      "./_assets/images/3d/mv_huge_3d.glb"
+    );
     model = objects.scene;
 
     model.scale.set(0.68, 0.68, 0.7);
