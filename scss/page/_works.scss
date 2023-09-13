@@ -72,47 +72,47 @@
         }
 
         &__bgwss {
-            background: url(../../images/img_work_wss_bg_b.jpg) center / cover no-repeat;
+            background: url(../../images/img_work_wss_bg_b.webp) center / cover no-repeat;
         }
 
         &__bghana {
-            background: url(../../images/img_work_hana_bg_b.jpg) center / cover no-repeat;
+            background: url(../../images/img_work_hana_bg_b.webp) center / cover no-repeat;
         }
 
         &__bgendo {
-            background: url(../../images/img_work_endo_bg_b.jpg) center / cover no-repeat;
+            background: url(../../images/img_work_endo_bg_b.webp) center / cover no-repeat;
         }
 
         &__bgtanakaya {
-            background: url(../../images/img_work_tanakaya_bg_b.jpg) center / cover no-repeat;
+            background: url(../../images/img_work_tanakaya_bg_b.webp) center / cover no-repeat;
         }
 
         &__bgazito {
-            background: url(../../images/img_work_azito_bg_b.jpg) center / cover no-repeat;
+            background: url(../../images/img_work_azito_bg_b.webp) center / cover no-repeat;
         }
 
         &__bglloyds {
-            background: url(../../images/img_work_lloyds_bg_b.jpg) center / cover no-repeat;
+            background: url(../../images/img_work_lloyds_bg_b.webp) center / cover no-repeat;
         }
 
         &__bgmusubi {
-            background: url(../../images/img_work_musubi_bg_b.jpg) center / cover no-repeat;
+            background: url(../../images/img_work_musubi_bg_b.webp) center / cover no-repeat;
         }
 
         &__bgmori {
-            background: url(../../images/img_work_mori_bg_b.jpg) center / cover no-repeat;
+            background: url(../../images/img_work_mori_bg_b.webp) center / cover no-repeat;
         }
 
         &__bgnextone {
-            background: url(../../images/img_work_nextone_bg_b.jpg) center / cover no-repeat;
+            background: url(../../images/img_work_nextone_bg_b.webp) center / cover no-repeat;
         }
 
         &__bgsides {
-            background: url(../../images/img_work_sides_bg_b.jpg) center / cover no-repeat;
+            background: url(../../images/img_work_sides_bg_b.webp) center / cover no-repeat;
         }
 
         &__bgbanner {
-            background: url(../../images/img_work_banner_bg_b.jpg) center / cover no-repeat;
+            background: url(../../images/img_work_banner_bg_b.webp) center / cover no-repeat;
         }
 
         &__circle {
@@ -289,8 +289,8 @@
 
                 &:hover .more__link {
 
-                    &:after{
-                        content:'';
+                    &:after {
+                        content: '';
                         background: url(../images/arrow_p.svg) center / contain no-repeat;
                         margin-right: 10px;
                     }
@@ -316,10 +316,10 @@
                 position: relative;
                 display: flex;
                 align-items: center;
-                
 
-                &:after{
-                    content:'';
+
+                &:after {
+                    content: '';
                     width: 30px;
                     height: 15px;
                     margin-right: 20px;
